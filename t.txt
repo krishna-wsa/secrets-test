@@ -14,4 +14,3 @@ aws_secret=os.getenv('AWS_SECRET_ACCESS_KEY')
    "date": "2019-05-10T01:33:39+01:00"
 }
 
-new
